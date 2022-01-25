@@ -1,5 +1,7 @@
 > Demonstration of complete, fully-featured CI/CD and cloud automation for microservices, done with GCP/GKE
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/b24f07fd-9eb5-4ffc-bf03-7a807cf3f914.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/gke-demo?orgId=561911742905)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/752c7131-4376-41f7-8981-9649ccd37920.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/gke-demo?orgId=561911742905)  [![Git](https://app.soluble.cloud/api/v1/public/badges/e9545203-f807-4857-9f31-3a7c47271c02.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/gke-demo?orgId=561911742905)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/bc851edd-0b3e-4652-a785-496bfe34e440.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/gke-demo?orgId=561911742905)  
+
 ## <a name="features"></a>Features
 
 * Multistage deployments (staging, prod)
